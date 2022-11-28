@@ -14,9 +14,9 @@ Class Work:
 
 1. Please watch the following two YouTube videos on learning how to learn.
 
-a. Acitve Recall: https://www.youtube.com/watch?v=ukLnPbIffxE
+- Acitve Recall: https://www.youtube.com/watch?v=ukLnPbIffxE
 
-b. Spaced Repetition: https://www.youtube.com/watch?v=Z-zNHHpXoMM
+- Spaced Repetition: https://www.youtube.com/watch?v=Z-zNHHpXoMM
 
 2. Complete the brownies.html file with the semantically appropriate tags.
 
