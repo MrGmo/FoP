@@ -1,4 +1,4 @@
-Week 1: Lesson 1
+**Lesson 11**
 
 Welcome to Foundations of Programming!
 
