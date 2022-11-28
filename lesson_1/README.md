@@ -20,7 +20,7 @@ Class Work:
 
 2. Complete the brownies.html file with the semantically appropriate tags.
 
-3. Build a bbc.html file with all the appropriate tags by just looking at the picture.
+3. Build a bbc.html file with all the appropriate tags so that it mirrors the BBC.png picture that is included in this folder.
 
 Extra Resources on HTML/CSS:
 
