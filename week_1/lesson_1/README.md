@@ -14,14 +14,15 @@ Class Work:
 
 1. Please watch the following two YouTube videos on learning how to learn.
 
-Acitve Recall: https://www.youtube.com/watch?v=ukLnPbIffxE
+a. Acitve Recall: https://www.youtube.com/watch?v=ukLnPbIffxE
 
-Spaced Repetition: https://www.youtube.com/watch?v=Z-zNHHpXoMM
+b. Spaced Repetition: https://www.youtube.com/watch?v=Z-zNHHpXoMM
 
 2. Complete the brownies.html file with the semantically appropriate tags.
 
 3. Build a bbc.html file with all the appropriate tags by just looking at the picture.
 
 Extra Resources on HTML/CSS:
-https://learn.shayhowe.com/html-css/
-https://developer.mozilla.org/en-US/docs/Web/HTML
+
+1. https://learn.shayhowe.com/html-css/
+2. https://developer.mozilla.org/en-US/docs/Web/HTML
