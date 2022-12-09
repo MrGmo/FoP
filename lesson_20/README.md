@@ -12,11 +12,11 @@ Class Work:
 
 3. Complete the following Intro to GitHub course: https://learn.microsoft.com/en-us/training/modules/introduction-to-github/
 
-4. Practice creating remote repos on GitHub and pushing to them. You can always delete them later and this skill will be very valuable when you get to your first SWE job.
+4. Practice creating remote repos on GitHub and pushing to them. You can always delete them later and this skill will be valuable when you get to your first SWE job.
 
 Extra Resources on Git and GitHub:
 
 1. More Git: https://learngitbranching.js.org/
 
-2. More Git and GitHub: https://www.youtube.com/watch?v=RGOj5yH7evk
+2. More GitHub: https://www.youtube.com/watch?v=0fKg7e37bQE
 
