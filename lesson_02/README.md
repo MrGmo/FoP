@@ -1,27 +1,26 @@
 **Lesson 2**
 
+If you haven't already, please download Visual Studio Code here: https://code.visualstudio.com/download
+
+Once VS Code is installed on your machine click on the extensions button on the left hand menu. Next, search and install the following extensions: Live Server, Prettier, Quokka, Rainbow CSV, and VS Code Icons. These extensions will come in handy later in the course.
+
+Please also download Anki: https://ankiweb.net/about
+
+Anki is the helpful notecard system that I mentioned during class, it will help you study your recently aquired programming knowledge.
+
 Class Work:
 
-1. Please complete the following exercises if you haven't already:
+1. Please watch the following two YouTube videos on learning how to learn.
 
-- colors.html
+- Acitve Recall: https://www.youtube.com/watch?v=ukLnPbIffxE
 
-- relationships.html
+- Spaced Repetition: https://www.youtube.com/watch?v=Z-zNHHpXoMM
 
-- specificity.html
+2. Complete the brownies.html file with the semantically appropriate tags.
 
-- box-model.html
-
-2. Watch the following video on Flexbox: https://www.youtube.com/watch?v=JJSoEo8JSnc
-
-3. Read the following guide to Flexbox: https://css-tricks.com/snippets/css/a-guide-to-flexbox/
-
-4. Complete the following Flexbox Game: https://flexboxfroggy.com/
-
-5. After you have completed everything above attempt to build the three layouts in the practiceLayouts folder with a 2px solid black border. No content is needed within the sections, we're just interested in your ability to sketch the layout of a website.
+3. Build a bbc.html file with all the appropriate tags so that it mirrors the BBC.png picture that is included in this folder.
 
 Extra Resources on HTML/CSS:
 
 1. https://learn.shayhowe.com/html-css/
-2. https://developer.mozilla.org/en-US/docs/Web/CSS
-3. More Flexbox: https://www.freecodecamp.org/news/css-flexbox-tutorial-with-cheatsheet/
+2. https://developer.mozilla.org/en-US/docs/Web/HTML
