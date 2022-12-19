@@ -4,9 +4,17 @@ Class Work:
 
 1. Please complete the following exercises if you haven't already:
 
-- basic.py
+- frequencycounter.py
 
-Extra Resources:
+- anagrams.py
 
-1. h
-2. h
+- multiplepointers.py
+
+- uniquevalues.py
+
+- slidingwindow.py
+
+Extra Resources on Big O Notation:
+
+1. https://flexiple.com/algorithms/big-o-notation-cheat-sheet/
+2. https://www.youtube.com/watch?v=D6xkbGLQesk
