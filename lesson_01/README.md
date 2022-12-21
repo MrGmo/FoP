@@ -16,6 +16,13 @@ Class Work:
 
 4. Practice creating remote repos on GitHub and pushing to them. You can always delete them later and this skill will be valuable when you get to your first SWE job.
 
+5. Build out your GitHub profile:
+
+- Read: https://dev.to/supritha/how-to-have-an-awesome-github-profile-1969
+
+- Use: https://rahuldkjain.github.io/gh-profile-readme-generator/ or https://profilinator.rishav.dev/ to generate a cool README.md
+
+
 Extra Resources on Git and GitHub:
 
 1. More Git: https://learngitbranching.js.org/
