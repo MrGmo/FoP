@@ -22,7 +22,7 @@ Class Work:
 
 - Use: https://rahuldkjain.github.io/gh-profile-readme-generator/ or https://profilinator.rishav.dev/ to generate a cool README.md
 
-6. Find a partner and work through the git-pair exercise.
+6. Find a partner and work through the gitPair exercise.
 
 
 Extra Resources on Git and GitHub:
