@@ -17,4 +17,5 @@ Class Work:
 Extra Resources on Big O Notation:
 
 1. https://flexiple.com/algorithms/big-o-notation-cheat-sheet/
-2. https://www.youtube.com/watch?v=D6xkbGLQesk
+2. https://greenteapress.com/thinkpython2/html/thinkpython2022.html
+3. https://www.youtube.com/watch?v=D6xkbGLQesk
