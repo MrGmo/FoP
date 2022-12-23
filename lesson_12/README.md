@@ -4,16 +4,24 @@ Class Work:
 
 1. Please complete the following exercises if you haven't already:
 
-- readwrite.py
+- binarysearch.py
 
-- filesum.py
+- bubblesort.py
 
-- nobeldata.py
+- bubblesortcount.py
 
-- satdata.py
+- recursionintro.py
 
-- pets.py
+- recursivemult.py
 
-Extra Resources on Reading and Writing Files:
+- listmax.py
 
-1. 14.1 - 14.5: https://greenteapress.com/thinkpython2/html/thinkpython2015.html
+- isdecreasing.py
+
+Extra Resources on Searching, Sorting, and Recursion:
+
+1. https://www.topcoder.com/community/data-science/data-science-tutorials/binary-search/
+2. https://www.khanacademy.org/computing/computer-science/algorithms/binary-search/a/binary-search
+3. https://www.toptal.com/developers/sorting-algorithms
+4. 5.8 - 5.10: https://greenteapress.com/thinkpython2/html/thinkpython2006.html#sec62
+5. Python Tutor: https://pythontutor.com/python-debugger.html#mode=edit

@@ -1,28 +1,21 @@
 **Lesson 11**
 
-Welcome to Foundations of Programming!
-
-If you haven't already, please download Visual Studio Code here: https://code.visualstudio.com/download
-
-Once VS Code is installed on your machine click on the extensions button on the left hand menu. Next, search and install the following extensions: Live Server, Prettier, Quokka, Rainbow CSV, and VS Code Icons. These extensions will come in handy later in the course.
-
-Please also download Anki: https://ankiweb.net/about
-
-Anki is the helpful notecard system that I mentioned during class, it will help you study your recently aquired programming knowledge.
-
 Class Work:
 
-1. Please watch the following two YouTube videos on learning how to learn.
+1. Please complete the following exercises if you haven't already:
 
-- Acitve Recall: https://www.youtube.com/watch?v=ukLnPbIffxE
+- frequencycounter.py
 
-- Spaced Repetition: https://www.youtube.com/watch?v=Z-zNHHpXoMM
+- anagrams.py
 
-2. Complete the brownies.html file with the semantically appropriate tags.
+- multiplepointers.py
 
-3. Build a bbc.html file with all the appropriate tags by just looking at the picture.
+- uniquevalues.py
 
-Extra Resources on HTML/CSS:
+- slidingwindow.py
 
-1. https://learn.shayhowe.com/html-css/
-2. https://developer.mozilla.org/en-US/docs/Web/HTML
+Extra Resources on Big O Notation:
+
+1. https://flexiple.com/algorithms/big-o-notation-cheat-sheet/
+2. https://greenteapress.com/thinkpython2/html/thinkpython2022.html
+3. https://www.youtube.com/watch?v=D6xkbGLQesk

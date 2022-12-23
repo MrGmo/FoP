@@ -4,15 +4,15 @@ Class Work:
 
 1. Please complete the following exercises if you haven't already:
 
-- taxicab.py
+- coins.py
 
-- stddev.py
+- numberguess.py
 
-- linesegment.py
+- hailstone.py
 
-- streamingguide.py
+- countletters.py
 
-Extra Resources on Classes and Objects:
+Extra Resources on Python:
 
-1. https://greenteapress.com/thinkpython2/html/thinkpython2016.html
-2. Good Intro Video: https://www.youtube.com/watch?v=JeznW_7DlB0
+1. Official Python Docs: https://docs.python.org/3/
+
