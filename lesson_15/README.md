@@ -1,28 +1,13 @@
 **Lesson 15**
 
-Welcome to Foundations of Programming!
-
-If you haven't already, please download Visual Studio Code here: https://code.visualstudio.com/download
-
-Once VS Code is installed on your machine click on the extensions button on the left hand menu. Next, search and install the following extensions: Live Server, Prettier, Quokka, Rainbow CSV, and VS Code Icons. These extensions will come in handy later in the course.
-
-Please also download Anki: https://ankiweb.net/about
-
-Anki is the helpful notecard system that I mentioned during class, it will help you study your recently aquired programming knowledge.
-
 Class Work:
 
-1. Please watch the following two YouTube videos on learning how to learn.
+1. Please complete the following exercises if you haven't already:
 
-- Acitve Recall: https://www.youtube.com/watch?v=ukLnPbIffxE
+- numbers
 
-- Spaced Repetition: https://www.youtube.com/watch?v=Z-zNHHpXoMM
+- hardquestions
 
-2. Complete the brownies.html file with the semantically appropriate tags.
+Extra Resources on Django:
 
-3. Build a bbc.html file with all the appropriate tags by just looking at the picture.
-
-Extra Resources on HTML/CSS:
-
-1. https://learn.shayhowe.com/html-css/
-2. https://developer.mozilla.org/en-US/docs/Web/HTML
+1. Official Docs: https://docs.djangoproject.com/en/4.1/intro/tutorial01/
