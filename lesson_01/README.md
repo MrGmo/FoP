@@ -2,9 +2,7 @@
 
 Welcome to Foundations of Programming!
 
-If you haven't already, please download git. Follow this tutorial: https://github.com/git-guides/install-git
-
-Also, try to watch this video before class: https://www.youtube.com/watch?v=SWYqp7iY_Tc
+Try to watch this video before class: https://www.youtube.com/watch?v=SWYqp7iY_Tc
 
 Class Work:
 

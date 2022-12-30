@@ -28,7 +28,7 @@ Before we get started, just know that this will be chaos. Your goal is to get a 
 * [VSCode](https://code.visualstudio.com/download)
 * Install Python from Microsoft Store or [Python.org](https://www.python.org/downloads/windows/)
 * [Node and Node.js](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm#windows-node-version-managers)
-* [Git for Windows](https://git-scm.com/download/win) - once installed, follow gitconfig instructions in [Installfest](https://github.com/deltaplatoonew/curriculum/blob/master/Module-1--Javascript-and-Python-Fundamentals/wk-01--Setup/lecture-materials/installfest.md)
+* [Git for Windows](https://git-scm.com/download/win) - once installed, follow gitconfig instructions in [Installfest](./lecture-materials/installfest.md)
 * [Postgres] https://www.enterprisedb.com/downloads/postgres-postgresql-downloads
 
 ### Lecture Topics
