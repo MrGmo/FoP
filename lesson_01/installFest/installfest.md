@@ -18,10 +18,10 @@ Before we get started, just know that this will be chaos. Your goal is to get a 
 * Ensure that you're running the most recent operating system. You can check your version by going to "System Preferences" and clicking on "Software Update"
 * [VSCode](https://code.visualstudio.com/download)
 * [iTerm](https://www.iterm2.com/downloads.html)
-* [Complete Installfest (MacOS)](./lesson_01/lecture-materials/installfest.md)
+* [Complete Installfest (MacOS)](lesson_01/lecture-materials/installfest.md)
 
 ### Ubuntu/Mint Setup
-* [Complete Installfest (Ubuntu/Mint Version)](./lesson_01/lecture-materials/installfest_ubuntu.md))
+* [Complete Installfest (Ubuntu/Mint Version)](lesson_01/lecture-materials/installfest_ubuntu.md))
 
 ### Windows Setup
 * Ensure that you're running the most recent operating system. You can check your version by going to Settings and "Windows Update".
