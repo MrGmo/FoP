@@ -24,12 +24,8 @@ Before we get started, just know that this will be chaos. Your goal is to get a 
 * [Complete Installfest (Ubuntu/Mint Version)](./lecture-materials/installfest_ubuntu.md)
 
 ### Windows Setup
-* Ensure that you're running the most recent operating system. You can check your version by going to Settings and "Windows Update".
-* [VSCode](https://code.visualstudio.com/download)
-* Install Python from Microsoft Store or [Python.org](https://www.python.org/downloads/windows/)
-* [Node and Node.js](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm#windows-node-version-managers)
-* [Git for Windows](https://git-scm.com/download/win) - once installed, follow gitconfig instructions in [Installfest](./lecture-materials/installfest.md)
-* [Postgres] https://www.enterprisedb.com/downloads/postgres-postgresql-downloads
+- Ensure that you're running the most recent operating system (Windows 10 and 11 are both fine). You can update to the latest Windows version by selecting `Start > Settings > **Windows Update **> Check for updates.`
+- [Complete Installfest (Windows)](./lecture-materials/installfest_windows.md)
 
 ### Lecture Topics
 * Your new Integrated Development Environment (IDE)
