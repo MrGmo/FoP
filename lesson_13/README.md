@@ -8,7 +8,9 @@ Class Work:
 
 - regexpractice.py
 
+- asciipractice.py
+
 Extra Resources on Python RegEx and ASCII values:
 
 1. https://regex101.com/
-2. e
+2. https://www.youtube.com/watch?v=EkQaR6B3FSs
