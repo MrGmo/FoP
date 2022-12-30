@@ -22,4 +22,4 @@ your_username@your_computer_name: ~$
 At this point, you are able to run all the commands like the students on a Mac/Linux machine. To exit from the bash shell, type `exit`. You'll see the regular Powershell prompt. To enter the bash shell again, type `bash`.
 
 ## Installing Python/NPM/Node/Git
-- The setup from here is the same as the students using a Linux machine. Complete the installfest instructions starting at [Advanced Package Tools](./lecture-materials/installfest_ubuntu.md#advanced-package-tool)
+- The setup from here is the same as the students using a Linux machine. Complete the installfest instructions starting at [Advanced Package Tools](installfest_ubuntu.md#advanced-package-tool)
