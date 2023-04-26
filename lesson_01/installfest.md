@@ -1,5 +1,8 @@
 FROM: Monday, October 3, 2022
 
+REFACTOR ALL OF THIS WITH GITHUB LINK!
+
+
 ====================
 ### Video Resources from Previous Cohorts
 - [Videos](https://www.youtube.com/channel/UCASZ7zW_Egu0T4KG3YEdGfw/playlists)
