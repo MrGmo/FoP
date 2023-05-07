@@ -14,3 +14,5 @@ Class Work:
 Extra Resources on Classes, Objects, Exceptions, and Unit Tests:
 
 1. More Coderbyte Challenges: https://coderbyte.com/sl-candidate?promo=codeplatoon-13p1p:algorithm-assessment-tob7gshwpm
+
+2. Anki Notecard System: https://apps.ankiweb.net/
