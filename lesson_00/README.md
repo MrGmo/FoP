@@ -8,7 +8,7 @@ Class Work:
 
 2. Installfest: https://github.com/codeplatoon-fullstack/installfest
 
-3. Spaced Repetition and Active Recall
+3. Learning How to Code
 
 
 Extra Resources on Classes, Objects, Exceptions, and Unit Tests:
