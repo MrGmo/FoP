@@ -24,3 +24,5 @@ Extra Resources on Git and GitHub:
 1. More Git: https://learngitbranching.js.org/
 
 2. More GitHub: https://www.youtube.com/watch?v=0fKg7e37bQE
+
+3. More Linux: https://linuxsurvival.com/
