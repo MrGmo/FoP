@@ -1,9 +1,5 @@
 **Lesson 1**
 
-Welcome to Foundations of Programming!
-
-Try to watch this video before class: https://www.youtube.com/watch?v=SWYqp7iY_Tc
-
 Class Work:
 
 1. Create a GitHub account if you haven't already: https://github.com/
