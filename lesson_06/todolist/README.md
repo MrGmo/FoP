@@ -1,6 +1,4 @@
-Build a replica of the to-do-list pictured in the todolist.jpeg using HTML, CSS, and JS. Feel free to use the CSS framework Bootstrap as well, the getting started docs are here: https://getbootstrap.com/docs/5.2/getting-started/introduction/
-
-* You will be working with Bootstrap during our immersive program so it's best to famililiarize yourself with it now.
+Build a replica of the to-do-list pictured in the todolist.jpeg using HTML, CSS, and JS.
 
 Your to-do-list should be able to CRUD:
 - Create a to-do (look into the form element, might help)
