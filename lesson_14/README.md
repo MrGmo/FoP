@@ -1,12 +1,16 @@
-**Lesson 14**
+**Lesson 13**
 
 Class Work:
 
-1. Please complete the following exercises if you haven't already (in the best time and space complexity you can):
+1. Please complete the following exercises if you haven't already:
 
-- 12 Pre-work Coderbyte Challenges: https://coderbyte.com/sl-candidate?promo=codeplatoon-13p1p:technical-asses-qjjtv03ias
+- vowelsanddomains.py
 
-Extra Resources on Python:
+- regexpractice.py
 
-1. Official Python Docs: https://docs.python.org/3/
+- asciipractice.py
 
+Extra Resources on Python RegEx and ASCII values:
+
+1. https://regex101.com/
+2. https://www.youtube.com/watch?v=EkQaR6B3FSs
