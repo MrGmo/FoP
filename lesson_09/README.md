@@ -1,20 +1,19 @@
-**Lesson 9**
+**Lesson 09**
 
 Class Work:
 
 1. Please complete the following exercises if you haven't already:
 
-- basicstats.py
+- readwrite.py
 
-- outofrange.py
+- filesum.py
 
-- multiply.py
+- nobeldata.py
 
-- lemonadestand.py
+- satdata.py
 
-Extra Resources on Classes, Objects, Exceptions, and Unit Tests:
+- pets.py
 
-1. https://greenteapress.com/thinkpython2/html/thinkpython2016.html
-2. https://www.youtube.com/watch?v=JeznW_7DlB0
-3. https://www.youtube.com/watch?v=V3nqBxllUlI
-4. https://www.youtube.com/watch?v=6tNS--WetLI
+Extra Resources on Reading and Writing Files:
+
+1. 14.1 - 14.5: https://greenteapress.com/thinkpython2/html/thinkpython2015.html

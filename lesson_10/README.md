@@ -4,16 +4,18 @@ Class Work:
 
 1. Please complete the following exercises if you haven't already:
 
-- readwrite.py
+- frequencycounter.py
 
-- filesum.py
+- anagrams.py
 
-- nobeldata.py
+- multiplepointers.py
 
-- satdata.py
+- uniquevalues.py
 
-- pets.py
+- slidingwindow.py
 
-Extra Resources on Reading and Writing Files:
+Extra Resources on Big O Notation:
 
-1. 14.1 - 14.5: https://greenteapress.com/thinkpython2/html/thinkpython2015.html
+1. https://flexiple.com/algorithms/big-o-notation-cheat-sheet/
+2. https://greenteapress.com/thinkpython2/html/thinkpython2022.html
+3. https://www.youtube.com/watch?v=D6xkbGLQesk

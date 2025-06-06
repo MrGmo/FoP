@@ -1,18 +1,18 @@
-**Lesson 7**
+**Lesson 07**
 
 Class Work:
 
 1. Please complete the following exercises if you haven't already:
 
-- coins.py
+- taxicab.py
 
-- numberguess.py
+- stddev.py
 
-- hailstone.py
+- linesegment.py
 
-- countletters.py
+- streamingguide.py
 
-Extra Resources on Python:
+Extra Resources on Classes and Objects:
 
-1. Official Python Docs: https://docs.python.org/3/
-
+1. https://greenteapress.com/thinkpython2/html/thinkpython2016.html
+2. Good Intro Video: https://www.youtube.com/watch?v=JeznW_7DlB0
